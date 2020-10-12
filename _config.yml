@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 신
-subtitle: "A simple website or blog"
+title: 걍 만들어본 페이지
+subtitle: ""
 email: blcentra@gmail.com
 name: Ben Centra
 description: >
-  A Test Blog.
+  그냥 만들어본 블로그.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
