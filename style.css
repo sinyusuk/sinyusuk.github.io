@@ -1,0 +1,15 @@
+#clockTitle{
+    font-size: 60px;
+    text-align: center;
+}
+
+#head{/*WEB크게 써있는거*/
+    font-size: 40px;
+    text-align: center;
+    border-bottom:1px solid gray;
+    margin: 5px;
+    /*padding:20px;*/
+}
+.body{
+    border: gray 1px solid;
+}
