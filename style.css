@@ -12,4 +12,20 @@
 }
 .body{
     border: gray 1px solid;
+    
+    
 }
+.form,
+.greeting{
+    display: none;
+    text-align: center;
+    font-size: 30px;
+}
+.showing{
+    display: block;
+}
+html{
+    background-size: cover;
+    background-position: top center;
+}
+
