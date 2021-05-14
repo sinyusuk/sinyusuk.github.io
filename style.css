@@ -1,10 +1,11 @@
 #clockTitle{
-    font-size: 60px;
-    text-align: center;
+    font-size: 50px;
+    text-align: center;   
 }
 
-#head{/*WEB크게 써있는거*/
-    font-size: 40px;
+.head{/*WEB크게 써있는거*/
+    font-size: 60px;
+
     text-align: center;
     border-bottom:1px solid gray;
     margin: 5px;
@@ -20,12 +21,12 @@
     display: none;
     text-align: center;
     font-size: 30px;
+    
 }
 .showing{
     display: block;
 }
 html{
     background-size: cover;
-    background-position: top center;
+    background-position: center top;
 }
-
